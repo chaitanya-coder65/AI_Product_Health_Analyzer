@@ -1,0 +1,13 @@
+pandas 
+numpy 
+seaborn 
+ultralytics
+opencv-python
+easyocr
+streamlit
+pillow
+scikit-learn
+torch
+torchvision
+matplotlib
+-e .
