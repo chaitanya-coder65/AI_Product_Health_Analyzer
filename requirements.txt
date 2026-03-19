@@ -10,4 +10,5 @@ scikit-learn
 torch
 torchvision
 matplotlib
+rapidfuzz
 -e .

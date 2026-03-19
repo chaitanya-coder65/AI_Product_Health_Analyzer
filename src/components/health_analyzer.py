@@ -3,35 +3,62 @@ import sys
 from src.logger import logging
 from src.exception import CustomException
 
+
 class HealthAnalyzer:
 
     def __init__(self):
 
-        self.db = pd.read_csv("datasets/final/ingredients_db.csv")
+        try:
+            logging.info("Loading ingredient health database")
 
+            self.db = pd.read_csv("datasets/final/ingredients_db.csv")
 
-    def analyze(self, ingredient_list):
+        except Exception as e:
+            raise CustomException(e, sys)
 
-        results = []
+    def analyze(self, ingredients):
 
-        for ing in ingredient_list:
+        try:
+            results = []
+            score = 10
 
-            row = self.db[self.db["ingredient"] == ing]
+            for ing in ingredients:
 
-            if row.empty:
-                continue
+                row = self.db[self.db["ingredient"] == ing]
 
-            risk = row["risk_level"].values[0]
-            effect = row["health_effect"].values[0]
+                if row.empty:
+                    continue
 
-            # Ignore ingredients with unknown risk
-            if risk == "unknown":
-                continue
+                risk = row["risk_level"].values[0]
+                effect = row["health_effect"].values[0]
 
-            results.append({
-                "ingredient": ing,
-                "risk": risk,
-                "effect": effect
-            })
+                # skip unknown
+                if risk == "unknown":
+                    continue
 
-        return results
+                # scoring rules
+                if risk == "high":
+                    score -= 4
+                elif risk == "medium":
+                    score -= 2
+                elif risk == "low":
+                    score -= 1
+
+                results.append({
+                    "ingredient": ing,
+                    "risk": risk,
+                    "effect": effect
+                })
+
+            # final decision
+            if score >= 7:
+                decision = "SAFE"
+            elif score >= 4:
+                decision = "MODERATE"
+            else:
+                decision = "DANGEROUS"
+
+            return results, score, decision
+
+        except Exception as e:
+            raise CustomException(e, sys)

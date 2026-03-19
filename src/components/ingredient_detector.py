@@ -1,8 +1,9 @@
 import pandas as pd
 import sys
-import re
+from rapidfuzz import process
 from src.logger import logging
 from src.exception import CustomException
+from src.utils.text_processing import clean_ocr_text, extract_tokens
 
 
 class IngredientDetector:
@@ -34,24 +35,20 @@ class IngredientDetector:
 
         try:
 
-            text = text.lower()
+            clean_text = clean_ocr_text(text)
 
-            import re
-            words = re.findall(r'\b[a-zA-Z]+\b', text)
+            tokens = extract_tokens(clean_text)
 
             detected = []
 
-            for ingredient in self.ingredients:
+            for token in tokens:
 
-                ingredient = str(ingredient).lower().strip()
+                # NLP fuzzy matching
+                match, score, _ = process.extractOne(token, self.ingredients)
 
-                # ignore small words
-                if len(ingredient) < 4:
-                    continue
-
-                # only detect if word exists in OCR words
-                if ingredient in words:
-                    detected.append(ingredient)
+                # threshold (important)
+                if score >= 85:
+                    detected.append(match)
 
             detected = list(set(detected))
 

@@ -1,0 +1,64 @@
+ingredient,category,risk_level,health_effect,safe_limit,unit,high_risk_threshold
+sugar,food,high,obesity diabetes,25,g_per_day,10
+glucose,food,high,blood sugar spike,25,g_per_day,10
+glucose syrup,food,high,blood sugar spike,25,g_per_day,10
+high fructose corn syrup,food,high,obesity liver damage,20,g_per_day,8
+fructose,food,medium,weight gain,25,g_per_day,10
+maltose,food,medium,blood sugar increase,25,g_per_day,10
+trans fat,food,high,heart disease,2,g_per_day,1
+saturated fat,food,medium,cholesterol increase,20,g_per_day,10
+hydrogenated oil,food,high,heart disease,0,none,1
+palm oil,food,medium,cholesterol increase,20,g_per_day,10
+vegetable oil,food,medium,high fat obesity,20,g_per_day,10
+refined oil,food,medium,low nutrition fat gain,20,g_per_day,10
+sodium,food,medium,high blood pressure,2000,mg_per_day,400
+salt,food,medium,hypertension,2000,mg_per_day,400
+monosodium glutamate,food,medium,headache nausea,2,g_per_day,1
+msg,food,medium,headache nausea,2,g_per_day,1
+citric acid,food,low,acidic irritation,10,g_per_day,5
+phosphoric acid,food,medium,bone weakening,5,g_per_day,2
+acetic acid,food,low,minor irritation,10,g_per_day,5
+sodium benzoate,food,high,cancer risk,0,none,1
+potassium sorbate,food,medium,skin irritation,25,mg_per_day,10
+nitrates,food,high,cancer risk,0,none,1
+nitrites,food,high,cancer risk,0,none,1
+sulfites,food,medium,allergic reactions,10,mg_per_day,5
+aspartame,food,high,neurological risk,0,none,1
+sucralose,food,medium,gut bacteria impact,5,mg_per_day,2
+acesulfame k,food,high,metabolic disorder,0,none,1
+artificial color,food,high,hyperactivity in children,0,none,1
+caramel color,food,medium,possible carcinogen,0,none,1
+tartrazine,food,high,allergy hyperactivity,0,none,1
+sunset yellow,food,high,allergy hyperactivity,0,none,1
+flavour,food,low,may contain additives,0,none,1
+artificial flavour,food,medium,chemical exposure,0,none,1
+water,food,low,essential hydration,0,none,1
+milk,food,low,nutritional protein calcium,0,none,1
+cocoa,food,low,antioxidant benefits,0,none,1
+oats,food,low,fiber rich healthy,0,none,1
+wheat flour,food,medium,refined carbs obesity,50,g_per_day,20
+caffeine,food,medium,sleep disturbance anxiety,400,mg_per_day,100
+taurine,food,medium,heart rate increase,1000,mg_per_day,300
+carbon dioxide,food,low,gas formation,0,none,1
+sodium lauryl sulfate,cosmetic,medium,skin irritation,0,none,1
+sls,cosmetic,medium,skin irritation,0,none,1
+sodium laureth sulfate,cosmetic,medium,skin irritation,0,none,1
+parabens,cosmetic,medium,hormone disruption,0,none,1
+methylparaben,cosmetic,medium,hormone disruption,0,none,1
+propylparaben,cosmetic,medium,hormone disruption,0,none,1
+benzene,cosmetic,high,cancer risk,0,none,1
+formaldehyde,cosmetic,high,toxic carcinogen,0,none,1
+coal tar,cosmetic,high,cancer risk,0,none,1
+phthalates,cosmetic,high,hormone disruption,0,none,1
+oxybenzone,cosmetic,high,hormone disruption,0,none,1
+avobenzone,cosmetic,medium,skin irritation,0,none,1
+octinoxate,cosmetic,high,hormone disruption,0,none,1
+zinc oxide,cosmetic,low,uv protection safe,0,none,1
+titanium dioxide,cosmetic,low,uv protection safe,0,none,1
+glycerin,cosmetic,low,skin hydration,0,none,1
+hyaluronic acid,cosmetic,low,skin hydration,0,none,1
+salicylic acid,cosmetic,low,acne treatment,2,percent,2
+alcohol,cosmetic,medium,skin dryness irritation,0,none,1
+fragrance,cosmetic,medium,allergy irritation,0,none,1
+synthetic fragrance,cosmetic,high,allergic reactions,0,none,1
+mineral oil,cosmetic,medium,skin clogging,0,none,1
