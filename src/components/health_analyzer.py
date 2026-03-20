@@ -9,9 +9,9 @@ class HealthAnalyzer:
     def __init__(self):
 
         try:
-            logging.info("Loading ingredient health database")
+            logging.info("Loading advanced ingredient database")
 
-            self.db = pd.read_csv("datasets/final/ingredients_db.csv")
+            self.db = pd.read_csv("datasets/final/advanced_ingredients_db.csv")
 
         except Exception as e:
             raise CustomException(e, sys)
@@ -32,11 +32,7 @@ class HealthAnalyzer:
                 risk = row["risk_level"].values[0]
                 effect = row["health_effect"].values[0]
 
-                # skip unknown
-                if risk == "unknown":
-                    continue
-
-                # scoring rules
+                # 🎯 Rule-Based Risk Evaluation
                 if risk == "high":
                     score -= 4
                 elif risk == "medium":
@@ -50,7 +46,7 @@ class HealthAnalyzer:
                     "effect": effect
                 })
 
-            # final decision
+            # 🎯 Final Decision Rule
             if score >= 7:
                 decision = "SAFE"
             elif score >= 4:

@@ -1,0 +1,1001 @@
+ingredients,label
+"mineral oil,carbon dioxide",low
+"sodium,formaldehyde",low
+"parabens,acesulfame k",low
+"carbon dioxide,sodium laureth sulfate,benzene,phosphoric acid,phthalates",high
+"glycerin,sodium benzoate,phosphoric acid,nitrites",medium
+"monosodium glutamate,palm oil,alcohol,nitrites,milk",high
+"high fructose corn syrup,acetic acid,citric acid,trans fat,wheat flour,synthetic fragrance",high
+"titanium dioxide,sugar",low
+"acetic acid,coal tar,sucralose,titanium dioxide,oxybenzone,vegetable oil",high
+"milk,nitrites,oxybenzone,artificial flavour,artificial color,saturated fat",high
+"propylparaben,saturated fat,sugar,glucose",high
+"palm oil,glycerin,coal tar",medium
+"fructose,wheat flour,synthetic fragrance",medium
+"benzene,sodium,citric acid,sunset yellow,trans fat",high
+"alcohol,sunset yellow,acetic acid,oxybenzone,formaldehyde,cocoa",high
+"salt,sodium benzoate,sodium lauryl sulfate,tartrazine",high
+"refined oil,sodium benzoate,citric acid,sunset yellow",medium
+"msg,refined oil,potassium sorbate,aspartame,synthetic fragrance,fructose",high
+"sunset yellow,sucralose,sulfites,parabens,caffeine",high
+"avobenzone,fragrance,hydrogenated oil,glycerin",medium
+"methylparaben,parabens,artificial color,glucose syrup,mineral oil,artificial flavour",high
+"acetic acid,sodium lauryl sulfate,artificial flavour,methylparaben,caramel color",medium
+"caramel color,propylparaben,titanium dioxide,high fructose corn syrup",medium
+"sodium,sulfites",low
+"milk,high fructose corn syrup",low
+"glycerin,high fructose corn syrup,acetic acid,tartrazine",medium
+"salicylic acid,sodium benzoate,sucralose,palm oil",medium
+"zinc oxide,glucose syrup,sodium lauryl sulfate,caramel color,alcohol",high
+"sulfites,sodium benzoate,citric acid,salicylic acid",medium
+"formaldehyde,benzene",medium
+"salt,monosodium glutamate,hydrogenated oil,carbon dioxide,wheat flour,benzene",high
+"caramel color,aspartame",low
+"water,phthalates,glycerin,synthetic fragrance",medium
+"refined oil,msg,trans fat,sodium,octinoxate,aspartame",high
+"salt,glucose,mineral oil,parabens,propylparaben,milk",high
+"sunset yellow,coal tar,propylparaben,sodium lauryl sulfate,salicylic acid,octinoxate",high
+"refined oil,nitrites,benzene",medium
+"monosodium glutamate,glycerin,artificial flavour,citric acid,sunset yellow",medium
+"parabens,formaldehyde",low
+"aspartame,tartrazine,water,sugar,monosodium glutamate",high
+"sodium,octinoxate,caramel color,tartrazine,formaldehyde,saturated fat",high
+"glucose syrup,palm oil,sunset yellow,titanium dioxide",medium
+"aspartame,hydrogenated oil,avobenzone",medium
+"tartrazine,phosphoric acid,high fructose corn syrup,coal tar,caffeine",high
+"avobenzone,high fructose corn syrup,salicylic acid,sodium lauryl sulfate,glycerin,methylparaben",high
+"caffeine,phosphoric acid,alcohol,nitrates,saturated fat",high
+"refined oil,sunset yellow,phosphoric acid",medium
+"trans fat,benzene,formaldehyde,flavour,phosphoric acid",high
+"tartrazine,maltose,flavour,caffeine,sls,caramel color",high
+"wheat flour,milk,glucose syrup,sls",medium
+"formaldehyde,nitrates,salicylic acid,milk,sugar,citric acid",high
+"acetic acid,coal tar,sucralose,fructose,salt",high
+"tartrazine,caramel color,coal tar,nitrates",high
+"caramel color,glycerin,refined oil,msg,hyaluronic acid,high fructose corn syrup",high
+"phosphoric acid,glycerin,tartrazine,benzene",medium
+"potassium sorbate,artificial color",low
+"mineral oil,saturated fat",low
+"phosphoric acid,phthalates,octinoxate,flavour",medium
+"potassium sorbate,mineral oil,trans fat,sls,synthetic fragrance",high
+"maltose,nitrites,alcohol,high fructose corn syrup",high
+"synthetic fragrance,nitrites,nitrates",medium
+"sodium lauryl sulfate,palm oil,tartrazine,flavour,octinoxate,benzene",high
+"salicylic acid,methylparaben,synthetic fragrance",medium
+"fragrance,sodium laureth sulfate",low
+"maltose,oats,caffeine,sodium benzoate",medium
+"phosphoric acid,artificial color,acesulfame k",medium
+"oxybenzone,sls",low
+"parabens,flavour,artificial flavour",low
+"benzene,zinc oxide",low
+"benzene,taurine,mineral oil",medium
+"oats,carbon dioxide,flavour,palm oil,artificial flavour,methylparaben",medium
+"taurine,high fructose corn syrup,octinoxate",medium
+"propylparaben,tartrazine,sugar,nitrites",high
+"oxybenzone,monosodium glutamate,artificial color,artificial flavour,sodium,synthetic fragrance",high
+"glucose,hyaluronic acid,glucose syrup,saturated fat",medium
+"nitrates,sodium laureth sulfate,mineral oil,cocoa,hydrogenated oil",high
+"oats,nitrites,artificial flavour",medium
+"glucose syrup,titanium dioxide,sodium benzoate,caffeine",medium
+"titanium dioxide,propylparaben",low
+"sugar,citric acid,flavour,salicylic acid,hyaluronic acid,benzene",high
+"glucose,high fructose corn syrup,glycerin,citric acid,fragrance",high
+"parabens,phthalates,sodium lauryl sulfate,caramel color",medium
+"high fructose corn syrup,mineral oil,hyaluronic acid",medium
+"trans fat,coal tar",medium
+"zinc oxide,sodium benzoate,tartrazine,mineral oil,nitrites",high
+"caffeine,sugar,synthetic fragrance,refined oil,water",high
+"zinc oxide,maltose,sulfites,sugar,milk,sodium laureth sulfate",high
+"fructose,sls",low
+"sodium,acesulfame k,glucose,carbon dioxide",medium
+"hydrogenated oil,zinc oxide,methylparaben,msg,tartrazine,trans fat",high
+"hyaluronic acid,sodium,carbon dioxide,hydrogenated oil,caffeine,glucose syrup",high
+"propylparaben,sodium,artificial color",medium
+"flavour,artificial color,sulfites,tartrazine,glycerin,acetic acid",high
+"glycerin,water,sucralose,vegetable oil",medium
+"caramel color,oxybenzone,acetic acid,sucralose,salt,milk",high
+"sls,cocoa,phosphoric acid,salicylic acid",medium
+"maltose,mineral oil,sunset yellow,carbon dioxide,oxybenzone,sodium lauryl sulfate",high
+"caramel color,carbon dioxide,salt,citric acid,methylparaben",medium
+"zinc oxide,sodium,flavour,salt,high fructose corn syrup",medium
+"fragrance,sodium lauryl sulfate",low
+"artificial color,wheat flour,sodium benzoate,glycerin,alcohol",high
+"artificial color,glucose syrup,milk,titanium dioxide,salicylic acid",medium
+"benzene,hydrogenated oil,water,sodium benzoate,salt,taurine",high
+"synthetic fragrance,fragrance,nitrites,glycerin,coal tar,parabens",high
+"fructose,sulfites",low
+"fragrance,water,sucralose",low
+"oats,fructose,sucralose",low
+"sunset yellow,phosphoric acid,artificial color,msg,sodium laureth sulfate,glucose syrup",high
+"vegetable oil,titanium dioxide,monosodium glutamate,msg,oats,milk",medium
+"sunset yellow,sodium laureth sulfate,sodium benzoate,artificial flavour,sodium",high
+"zinc oxide,mineral oil,oxybenzone,methylparaben",medium
+"sls,fragrance,methylparaben,oxybenzone,flavour,acetic acid",high
+"salt,benzene,sodium,fructose,synthetic fragrance",high
+"maltose,acesulfame k,octinoxate",medium
+"salt,water,benzene,fragrance,sodium laureth sulfate",high
+"fructose,palm oil,synthetic fragrance,methylparaben,milk",high
+"oats,sucralose,glucose,potassium sorbate,artificial flavour",high
+"msg,water,sugar,sunset yellow",medium
+"acetic acid,sodium lauryl sulfate,hydrogenated oil",medium
+"propylparaben,hydrogenated oil,potassium sorbate,zinc oxide,sugar,phthalates",high
+"caffeine,flavour,tartrazine",medium
+"citric acid,glucose,phthalates,milk",medium
+"taurine,msg,oxybenzone,octinoxate",high
+"sodium laureth sulfate,salt,formaldehyde,hyaluronic acid,synthetic fragrance",high
+"acesulfame k,caramel color,phosphoric acid,milk,oats,zinc oxide",high
+"artificial flavour,sugar,aspartame,titanium dioxide,msg,monosodium glutamate",high
+"hyaluronic acid,sodium lauryl sulfate",low
+"sls,zinc oxide",low
+"taurine,sodium benzoate,acetic acid,coal tar,sls,sodium lauryl sulfate",high
+"sodium benzoate,high fructose corn syrup",medium
+"sulfites,cocoa,avobenzone,saturated fat,oats,methylparaben",high
+"phthalates,coal tar,vegetable oil,fructose",high
+"trans fat,high fructose corn syrup,nitrites,potassium sorbate,octinoxate,tartrazine",high
+"vegetable oil,mineral oil,sucralose,hyaluronic acid,phosphoric acid,phthalates",high
+"hyaluronic acid,phthalates,nitrites,sodium,saturated fat,taurine",high
+"sunset yellow,nitrites,citric acid,trans fat",high
+"acetic acid,potassium sorbate",low
+"synthetic fragrance,mineral oil,sucralose,propylparaben,artificial flavour",high
+"phosphoric acid,taurine,water,caramel color",medium
+"alcohol,benzene",low
+"sls,artificial color,oats,fragrance",medium
+"flavour,formaldehyde,high fructose corn syrup,monosodium glutamate,refined oil",high
+"oxybenzone,sunset yellow",medium
+"sulfites,oxybenzone,maltose,oats,coal tar,taurine",high
+"high fructose corn syrup,wheat flour,carbon dioxide,benzene,hyaluronic acid",high
+"sodium benzoate,synthetic fragrance,aspartame,oxybenzone,sodium,flavour",high
+"oxybenzone,maltose",low
+"synthetic fragrance,phosphoric acid,avobenzone,propylparaben",medium
+"trans fat,coal tar",medium
+"monosodium glutamate,taurine,cocoa",low
+"caramel color,mineral oil,caffeine,oats,palm oil",medium
+"phosphoric acid,avobenzone",low
+"methylparaben,fragrance,sunset yellow",medium
+"wheat flour,phthalates,fragrance,caffeine,formaldehyde,carbon dioxide",high
+"flavour,sodium benzoate,high fructose corn syrup,mineral oil,phthalates",high
+"formaldehyde,sunset yellow",medium
+"octinoxate,sodium lauryl sulfate,phthalates,palm oil,maltose,mineral oil",high
+"vegetable oil,sodium,high fructose corn syrup,phosphoric acid,glucose,sodium laureth sulfate",high
+"glucose syrup,alcohol",low
+"carbon dioxide,formaldehyde,synthetic fragrance,parabens,flavour,oats",high
+"fragrance,citric acid,aspartame,salt",medium
+"cocoa,zinc oxide,methylparaben",low
+"cocoa,citric acid",low
+"glucose,vegetable oil,hyaluronic acid,sodium lauryl sulfate,caffeine",high
+"sodium,tartrazine,fructose",medium
+"nitrites,tartrazine,acesulfame k,avobenzone",high
+"acetic acid,sls,mineral oil,alcohol,maltose",medium
+"sodium laureth sulfate,citric acid,sodium benzoate,glycerin,oxybenzone,mineral oil",high
+"acesulfame k,salt,trans fat,salicylic acid,phthalates",high
+"oxybenzone,phosphoric acid",low
+"sulfites,sodium benzoate,fragrance,refined oil",medium
+"maltose,nitrates,oats,caramel color,fragrance",high
+"sunset yellow,sodium benzoate,octinoxate,carbon dioxide",high
+"sunset yellow,hyaluronic acid",low
+"fructose,monosodium glutamate,zinc oxide,propylparaben",medium
+"maltose,sugar,high fructose corn syrup",medium
+"high fructose corn syrup,sodium laureth sulfate,maltose",medium
+"octinoxate,fructose,caramel color",medium
+"sodium benzoate,hyaluronic acid",low
+"msg,phosphoric acid,mineral oil,hydrogenated oil",medium
+"oxybenzone,sucralose,citric acid,propylparaben,salt,sodium",high
+"nitrates,flavour,glucose syrup",medium
+"caffeine,artificial color,acesulfame k,sodium benzoate,sunset yellow,saturated fat",high
+"oxybenzone,maltose,alcohol,synthetic fragrance,sls",high
+"sunset yellow,vegetable oil,sls,hyaluronic acid",medium
+"flavour,high fructose corn syrup,acesulfame k,citric acid,zinc oxide",medium
+"tartrazine,nitrates,cocoa,hyaluronic acid,msg,benzene",high
+"sls,glucose,aspartame,maltose,fructose",high
+"benzene,aspartame,citric acid,caramel color,sodium benzoate",high
+"aspartame,trans fat,sodium lauryl sulfate,avobenzone",high
+"hydrogenated oil,fructose,wheat flour,methylparaben",medium
+"hyaluronic acid,vegetable oil,oxybenzone,glucose syrup,acetic acid",high
+"zinc oxide,phosphoric acid",low
+"propylparaben,milk,palm oil,phosphoric acid,octinoxate",high
+"sucralose,high fructose corn syrup,phosphoric acid,sodium lauryl sulfate",medium
+"salicylic acid,carbon dioxide,water,acetic acid,milk,sodium laureth sulfate",medium
+"sucralose,palm oil",low
+"glycerin,glucose,phthalates",medium
+"wheat flour,potassium sorbate,tartrazine,vegetable oil",medium
+"methylparaben,nitrites",low
+"oats,acesulfame k,high fructose corn syrup,salt,sugar,phosphoric acid",high
+"monosodium glutamate,sodium benzoate,cocoa,caramel color,nitrites",high
+"sls,octinoxate,hyaluronic acid,fructose",medium
+"hyaluronic acid,water,sodium laureth sulfate,sugar,benzene",high
+"fructose,palm oil,milk,sulfites",medium
+"phthalates,aspartame,sodium lauryl sulfate,monosodium glutamate,sunset yellow,octinoxate",high
+"alcohol,methylparaben",low
+"synthetic fragrance,sls",low
+"potassium sorbate,maltose,aspartame,citric acid,hydrogenated oil,sodium",high
+"hyaluronic acid,sodium laureth sulfate,propylparaben,sulfites,salt,palm oil",high
+"vegetable oil,benzene,fragrance,flavour,glucose,synthetic fragrance",high
+"vegetable oil,cocoa,parabens",low
+"milk,mineral oil,benzene",medium
+"taurine,alcohol,oats,vegetable oil,sunset yellow",high
+"citric acid,high fructose corn syrup,oxybenzone,benzene,milk",high
+"wheat flour,sodium benzoate",low
+"alcohol,salt,glucose syrup,artificial flavour,fragrance",high
+"sodium lauryl sulfate,artificial color,oats,cocoa,artificial flavour,glucose syrup",high
+"hydrogenated oil,octinoxate,caramel color,acetic acid,oxybenzone",high
+"palm oil,titanium dioxide,salicylic acid,maltose,aspartame",medium
+"octinoxate,parabens,sunset yellow",medium
+"methylparaben,msg,hydrogenated oil,taurine,trans fat",high
+"water,sulfites,tartrazine,coal tar,artificial color",high
+"phthalates,fructose,high fructose corn syrup",medium
+"sodium,methylparaben,titanium dioxide",low
+"wheat flour,flavour,nitrates,benzene",medium
+"fragrance,octinoxate,synthetic fragrance,artificial color,zinc oxide",high
+"fructose,saturated fat,sodium lauryl sulfate,milk",medium
+"hyaluronic acid,aspartame,octinoxate,nitrates,taurine",high
+"flavour,artificial flavour,maltose,sls",medium
+"maltose,methylparaben,glycerin,caffeine",medium
+"caffeine,refined oil,synthetic fragrance,artificial flavour,saturated fat,water",high
+"milk,water,phthalates,oxybenzone,artificial color",high
+"glucose,sls,nitrites",medium
+"artificial color,hydrogenated oil,caramel color,sucralose",high
+"nitrates,sodium laureth sulfate,sucralose,artificial flavour,octinoxate,hyaluronic acid",high
+"sodium benzoate,glucose",medium
+"sodium lauryl sulfate,flavour,maltose",low
+"oxybenzone,artificial flavour,taurine,mineral oil,maltose,citric acid",high
+"caffeine,artificial flavour,monosodium glutamate,tartrazine,msg",high
+"fructose,benzene,palm oil,sulfites,alcohol",high
+"zinc oxide,titanium dioxide",low
+"sunset yellow,nitrites,citric acid",medium
+"saturated fat,alcohol,monosodium glutamate",medium
+"phosphoric acid,octinoxate,milk,sodium,nitrites",high
+"sodium benzoate,artificial color,cocoa,fragrance,high fructose corn syrup,palm oil",high
+"acesulfame k,artificial color,acetic acid",medium
+"formaldehyde,titanium dioxide,propylparaben,palm oil,sulfites",high
+"sulfites,acesulfame k,glycerin,sodium benzoate,glucose syrup",high
+"tartrazine,potassium sorbate,zinc oxide",medium
+"water,caffeine,salt,glucose syrup",medium
+"msg,potassium sorbate,salicylic acid",low
+"sucralose,formaldehyde,maltose,cocoa",medium
+"parabens,hydrogenated oil,alcohol,artificial flavour,maltose,avobenzone",high
+"tartrazine,parabens,sodium,flavour,wheat flour,salicylic acid",high
+"sodium laureth sulfate,carbon dioxide,potassium sorbate,coal tar,sodium benzoate",high
+"monosodium glutamate,flavour,phthalates,vegetable oil,sls,caramel color",high
+"phthalates,coal tar,msg,salt,sls",high
+"mineral oil,fructose,caramel color,glucose syrup,artificial flavour,artificial color",high
+"mineral oil,artificial flavour",low
+"refined oil,sodium,msg,sulfites,palm oil",high
+"propylparaben,caramel color,glucose",medium
+"alcohol,carbon dioxide",low
+"avobenzone,citric acid,vegetable oil,hyaluronic acid,high fructose corn syrup",medium
+"sls,wheat flour,avobenzone,tartrazine,sodium benzoate,synthetic fragrance",high
+"avobenzone,sucralose,sodium,wheat flour,sunset yellow",high
+"parabens,sulfites",low
+"nitrates,salt",low
+"aspartame,vegetable oil",low
+"nitrites,salt",low
+"caramel color,propylparaben,msg,sugar",medium
+"hyaluronic acid,sodium benzoate,methylparaben,artificial flavour,phthalates",high
+"propylparaben,sugar,glucose syrup,caffeine,coal tar,benzene",high
+"artificial flavour,refined oil,coal tar,monosodium glutamate,palm oil",high
+"acesulfame k,acetic acid",low
+"cocoa,formaldehyde",low
+"milk,sugar,glucose syrup,zinc oxide,salicylic acid,water",high
+"sodium laureth sulfate,trans fat,aspartame,acetic acid",medium
+"nitrites,monosodium glutamate",low
+"oxybenzone,acesulfame k,methylparaben,phthalates",high
+"phthalates,salicylic acid,alcohol,methylparaben",medium
+"tartrazine,aspartame,artificial color,saturated fat",high
+"vegetable oil,hyaluronic acid,octinoxate,synthetic fragrance,sodium lauryl sulfate",high
+"caramel color,coal tar",low
+"aspartame,nitrites",medium
+"nitrates,hydrogenated oil,monosodium glutamate,msg,octinoxate,hyaluronic acid",high
+"palm oil,caffeine,coal tar,titanium dioxide",medium
+"glucose syrup,synthetic fragrance,benzene",medium
+"glucose,formaldehyde,sucralose,artificial flavour",high
+"glucose,acetic acid,carbon dioxide,octinoxate,hyaluronic acid,sulfites",high
+"sucralose,phthalates,propylparaben,refined oil,acetic acid",high
+"sugar,monosodium glutamate,sucralose,nitrates",high
+"maltose,milk",low
+"hydrogenated oil,glycerin,monosodium glutamate",medium
+"water,vegetable oil,parabens,saturated fat,zinc oxide,fructose",high
+"milk,alcohol,sodium benzoate,titanium dioxide,oats,aspartame",high
+"salicylic acid,formaldehyde,sodium laureth sulfate,msg",medium
+"sodium laureth sulfate,alcohol,sodium",medium
+"phthalates,fructose",low
+"synthetic fragrance,glycerin,sls",medium
+"coal tar,nitrites,potassium sorbate,aspartame",high
+"sodium benzoate,refined oil,palm oil,hyaluronic acid,coal tar,trans fat",high
+"alcohol,flavour,phosphoric acid,aspartame,cocoa",medium
+"caffeine,cocoa,carbon dioxide,vegetable oil",medium
+"benzene,hydrogenated oil,parabens",medium
+"zinc oxide,avobenzone",low
+"sodium,hyaluronic acid,citric acid,synthetic fragrance,zinc oxide",medium
+"hyaluronic acid,sodium,sodium lauryl sulfate,phosphoric acid,sugar",high
+"caffeine,fragrance,milk,sodium laureth sulfate",medium
+"milk,refined oil,carbon dioxide,nitrates,phosphoric acid,sucralose",high
+"phthalates,hyaluronic acid,maltose,tartrazine,synthetic fragrance",high
+"refined oil,methylparaben,sodium benzoate,glucose",high
+"caffeine,sls,oxybenzone,formaldehyde",high
+"mineral oil,salicylic acid,vegetable oil,aspartame,fragrance,octinoxate",high
+"carbon dioxide,caffeine,acetic acid,maltose",medium
+"wheat flour,flavour,nitrites",medium
+"acesulfame k,aspartame,vegetable oil",medium
+"citric acid,cocoa",low
+"alcohol,trans fat,phthalates,parabens,coal tar,high fructose corn syrup",high
+"monosodium glutamate,artificial flavour",low
+"glucose syrup,glucose,avobenzone,maltose,salicylic acid,aspartame",high
+"glycerin,hyaluronic acid,phosphoric acid,potassium sorbate",medium
+"glucose,zinc oxide,alcohol,benzene",medium
+"high fructose corn syrup,taurine,oxybenzone,sulfites,acesulfame k",high
+"salt,saturated fat,mineral oil,palm oil,trans fat",high
+"refined oil,phosphoric acid,formaldehyde,acesulfame k,methylparaben,sulfites",high
+"acetic acid,trans fat",low
+"monosodium glutamate,milk,nitrites",medium
+"taurine,caffeine,mineral oil",medium
+"acetic acid,sodium laureth sulfate,parabens,artificial color",medium
+"propylparaben,fructose,glucose syrup,maltose",medium
+"sodium benzoate,glucose syrup,sodium,sunset yellow",high
+"hydrogenated oil,nitrates,sugar",medium
+"glycerin,glucose,water",low
+"hydrogenated oil,salicylic acid,glucose syrup,alcohol",medium
+"flavour,tartrazine,zinc oxide",low
+"salicylic acid,hydrogenated oil,flavour,milk",medium
+"sunset yellow,sodium laureth sulfate,msg,titanium dioxide,hydrogenated oil",high
+"water,sodium lauryl sulfate,synthetic fragrance",medium
+"saturated fat,sls",low
+"parabens,vegetable oil,fructose,citric acid,glucose",high
+"aspartame,sodium benzoate,flavour,caramel color,glycerin",high
+"tartrazine,sodium lauryl sulfate,titanium dioxide",medium
+"fructose,hyaluronic acid,glycerin,vegetable oil",medium
+"sodium benzoate,oxybenzone,nitrates",medium
+"milk,sucralose",low
+"zinc oxide,sodium benzoate",low
+"maltose,cocoa",low
+"sodium laureth sulfate,sunset yellow,formaldehyde",medium
+"sulfites,nitrates,sucralose",medium
+"maltose,cocoa,sodium laureth sulfate,methylparaben",medium
+"nitrates,mineral oil,oxybenzone,fragrance,sodium benzoate,coal tar",high
+"benzene,trans fat,mineral oil,carbon dioxide,propylparaben,sodium laureth sulfate",high
+"sodium benzoate,titanium dioxide,refined oil,sunset yellow,taurine",high
+"methylparaben,phthalates,nitrates,acesulfame k,formaldehyde",high
+"titanium dioxide,citric acid,fragrance",low
+"sulfites,flavour,refined oil,citric acid,avobenzone,titanium dioxide",medium
+"sulfites,synthetic fragrance,aspartame,refined oil",high
+"carbon dioxide,sodium lauryl sulfate,wheat flour",low
+"glucose syrup,fragrance",low
+"palm oil,avobenzone,glucose,alcohol,methylparaben,cocoa",high
+"coal tar,sodium benzoate",medium
+"sunset yellow,artificial flavour",low
+"acetic acid,fragrance,salt,cocoa",medium
+"oats,titanium dioxide,propylparaben,flavour",low
+"mineral oil,high fructose corn syrup,methylparaben,sodium laureth sulfate",medium
+"sodium laureth sulfate,alcohol,synthetic fragrance,refined oil,mineral oil",high
+"hydrogenated oil,salt,sodium laureth sulfate,sls,caramel color,parabens",high
+"palm oil,sulfites,sucralose,hyaluronic acid,wheat flour",medium
+"benzene,artificial flavour,nitrites,wheat flour,msg,titanium dioxide",high
+"mineral oil,flavour,palm oil",low
+"artificial flavour,avobenzone,msg,carbon dioxide,glucose",high
+"synthetic fragrance,sodium,mineral oil,water",medium
+"carbon dioxide,aspartame",low
+"refined oil,oxybenzone,nitrites",medium
+"propylparaben,caramel color",low
+"flavour,sunset yellow,potassium sorbate,oxybenzone,glucose syrup,glycerin",high
+"alcohol,phthalates",low
+"trans fat,glycerin,sugar",medium
+"alcohol,caramel color",low
+"formaldehyde,taurine,nitrates,salicylic acid",medium
+"caffeine,methylparaben,glucose",medium
+"tartrazine,phosphoric acid",low
+"potassium sorbate,sucralose,saturated fat,propylparaben,caffeine,water",high
+"parabens,glucose,titanium dioxide,caffeine,fructose",high
+"citric acid,phosphoric acid,parabens,artificial flavour,oxybenzone",high
+"sulfites,palm oil,nitrites,maltose",medium
+"salicylic acid,maltose",low
+"nitrates,milk,alcohol,sunset yellow,high fructose corn syrup,saturated fat",high
+"water,sucralose,high fructose corn syrup,aspartame",medium
+"acetic acid,saturated fat,salt,carbon dioxide,octinoxate",medium
+"taurine,glucose,sodium laureth sulfate,oxybenzone,hyaluronic acid,titanium dioxide",high
+"potassium sorbate,sodium laureth sulfate,synthetic fragrance,coal tar,sodium,sodium lauryl sulfate",high
+"msg,hyaluronic acid,sugar",medium
+"sunset yellow,tartrazine,carbon dioxide",medium
+"coal tar,sls,oxybenzone",medium
+"glycerin,cocoa",low
+"mineral oil,sucralose,avobenzone,oxybenzone",medium
+"zinc oxide,oxybenzone",low
+"trans fat,caffeine,alcohol,high fructose corn syrup,caramel color,water",high
+"trans fat,synthetic fragrance,alcohol,taurine,oats,methylparaben",high
+"vegetable oil,monosodium glutamate,benzene,propylparaben,titanium dioxide",high
+"sodium,oxybenzone,vegetable oil,methylparaben",medium
+"sodium benzoate,mineral oil,sunset yellow",medium
+"sodium,sucralose,zinc oxide,phthalates",medium
+"tartrazine,methylparaben,glycerin,salt,fragrance",high
+"sls,salt",low
+"trans fat,sugar,methylparaben,acesulfame k,water,glycerin",high
+"glycerin,water,oxybenzone,sls,propylparaben",medium
+"water,sucralose,vegetable oil",low
+"titanium dioxide,flavour,sodium",low
+"phthalates,glucose",medium
+"milk,sodium lauryl sulfate,salt,sls,palm oil,phthalates",high
+"carbon dioxide,glucose syrup,fragrance,cocoa,caffeine,acetic acid",high
+"palm oil,potassium sorbate,oxybenzone,alcohol",medium
+"glucose,artificial color",medium
+"acetic acid,glucose syrup",low
+"salt,milk,methylparaben,aspartame,glucose,tartrazine",high
+"fructose,salicylic acid,nitrites,aspartame,saturated fat",high
+"sodium lauryl sulfate,hydrogenated oil",low
+"potassium sorbate,sodium benzoate,artificial flavour",medium
+"monosodium glutamate,sodium laureth sulfate,sucralose,phthalates,oxybenzone,nitrates",high
+"citric acid,artificial flavour",low
+"tartrazine,artificial flavour,glucose syrup",medium
+"hyaluronic acid,trans fat,phosphoric acid",medium
+"carbon dioxide,titanium dioxide,citric acid,caffeine,high fructose corn syrup",medium
+"potassium sorbate,palm oil,synthetic fragrance",medium
+"benzene,alcohol,parabens,phthalates,taurine",high
+"flavour,avobenzone,titanium dioxide,carbon dioxide,artificial color",medium
+"acesulfame k,refined oil,vegetable oil,zinc oxide,glycerin",medium
+"vegetable oil,methylparaben,salicylic acid",low
+"formaldehyde,tartrazine,oxybenzone",medium
+"hydrogenated oil,propylparaben,sodium lauryl sulfate,salicylic acid,zinc oxide,hyaluronic acid",high
+"acetic acid,phthalates",low
+"wheat flour,carbon dioxide,taurine,propylparaben,coal tar",high
+"vegetable oil,nitrates,titanium dioxide,refined oil",medium
+"cocoa,avobenzone,monosodium glutamate,saturated fat",medium
+"nitrates,sls",low
+"msg,citric acid",low
+"acetic acid,sugar,milk,acesulfame k,phthalates,salt",high
+"artificial color,cocoa,methylparaben",medium
+"tartrazine,maltose,wheat flour",medium
+"flavour,sls,sucralose,acetic acid,citric acid,saturated fat",medium
+"wheat flour,alcohol,zinc oxide,vegetable oil,caramel color,sodium laureth sulfate",high
+"flavour,potassium sorbate,salt",low
+"artificial color,potassium sorbate,nitrates,alcohol,flavour",high
+"propylparaben,citric acid",low
+"fructose,sodium,formaldehyde,wheat flour",medium
+"sucralose,oats,alcohol,hydrogenated oil",medium
+"salicylic acid,wheat flour,fragrance,sunset yellow,cocoa,artificial flavour",high
+"phosphoric acid,fragrance,glucose syrup,glucose,nitrates",high
+"saturated fat,glucose syrup,avobenzone",medium
+"acesulfame k,oats,fragrance,sls",medium
+"acetic acid,fructose",low
+"oxybenzone,water,acesulfame k",medium
+"sodium lauryl sulfate,cocoa,tartrazine,artificial color,sulfites,high fructose corn syrup",high
+"octinoxate,high fructose corn syrup,nitrates,citric acid,taurine,salicylic acid",high
+"sunset yellow,maltose",low
+"fructose,alcohol,sodium",medium
+"sodium laureth sulfate,fragrance,hyaluronic acid,msg,oxybenzone,acetic acid",high
+"avobenzone,caffeine,sodium,acesulfame k,flavour",high
+"water,sodium laureth sulfate,artificial color,trans fat,artificial flavour,sodium lauryl sulfate",high
+"caffeine,glycerin,nitrites",medium
+"carbon dioxide,methylparaben",low
+"msg,phthalates,acetic acid",medium
+"fructose,avobenzone,palm oil,sodium lauryl sulfate",medium
+"sulfites,high fructose corn syrup,formaldehyde",medium
+"wheat flour,water,trans fat",medium
+"sodium lauryl sulfate,sodium,acesulfame k,high fructose corn syrup,synthetic fragrance",high
+"phthalates,alcohol",low
+"zinc oxide,palm oil,synthetic fragrance",medium
+"phosphoric acid,sls",low
+"sls,citric acid,avobenzone,methylparaben",medium
+"titanium dioxide,maltose,synthetic fragrance",medium
+"glucose syrup,wheat flour,msg,salt,methylparaben,zinc oxide",high
+"palm oil,flavour,sugar",medium
+"palm oil,nitrites,aspartame",medium
+"sodium laureth sulfate,artificial flavour,acetic acid,sodium benzoate,vegetable oil",high
+"coal tar,saturated fat,sugar,taurine,sucralose,carbon dioxide",high
+"nitrates,glycerin,coal tar,glucose,water",high
+"glucose syrup,sodium lauryl sulfate",low
+"oxybenzone,oats,coal tar,vegetable oil,propylparaben,trans fat",high
+"sodium,octinoxate,sulfites,cocoa,propylparaben,trans fat",high
+"fructose,phosphoric acid,milk,sodium benzoate,msg,sunset yellow",high
+"sucralose,octinoxate,fructose,high fructose corn syrup",high
+"synthetic fragrance,refined oil,sodium laureth sulfate,saturated fat,alcohol",high
+"fructose,sodium lauryl sulfate,vegetable oil",medium
+"glucose,titanium dioxide,propylparaben,coal tar",medium
+"milk,zinc oxide",low
+"palm oil,fragrance",low
+"phthalates,nitrates,sucralose",medium
+"caramel color,synthetic fragrance,hydrogenated oil",medium
+"sodium benzoate,vegetable oil,coal tar,milk,fructose,titanium dioxide",high
+"salicylic acid,alcohol,benzene,titanium dioxide,zinc oxide",medium
+"sls,hydrogenated oil,benzene,zinc oxide",medium
+"mineral oil,artificial flavour,sucralose,avobenzone,acesulfame k,milk",high
+"refined oil,flavour",low
+"water,titanium dioxide,caramel color,wheat flour,sodium",medium
+"glucose,salicylic acid,sodium benzoate,sunset yellow",high
+"monosodium glutamate,hydrogenated oil,refined oil",medium
+"msg,sodium laureth sulfate,phthalates,caffeine",medium
+"tartrazine,acetic acid,citric acid",low
+"milk,zinc oxide,tartrazine,phosphoric acid",medium
+"octinoxate,aspartame,saturated fat,flavour",medium
+"glycerin,oxybenzone,nitrites",medium
+"refined oil,glycerin",low
+"glucose syrup,carbon dioxide,sodium,caramel color",medium
+"zinc oxide,avobenzone",low
+"sulfites,caramel color,glycerin,oxybenzone",medium
+"refined oil,zinc oxide,maltose",low
+"glycerin,benzene,wheat flour",medium
+"sodium laureth sulfate,flavour,trans fat,sls,sodium",high
+"glucose,sulfites,nitrates",medium
+"wheat flour,water",low
+"parabens,oxybenzone,sodium laureth sulfate",medium
+"sugar,palm oil,titanium dioxide",medium
+"sodium benzoate,coal tar,salt,acesulfame k,acetic acid",high
+"alcohol,artificial flavour,sulfites",medium
+"milk,msg,glucose,flavour,sls",medium
+"parabens,artificial flavour",low
+"coal tar,parabens,acesulfame k,milk,taurine,salicylic acid",high
+"hydrogenated oil,phosphoric acid",low
+"nitrates,msg",low
+"high fructose corn syrup,water,propylparaben",medium
+"citric acid,glycerin,hyaluronic acid,maltose,msg",medium
+"sulfites,octinoxate,vegetable oil",medium
+"coal tar,wheat flour,propylparaben,vegetable oil,phosphoric acid",high
+"milk,glucose,salt,sunset yellow",medium
+"sulfites,trans fat",low
+"artificial flavour,glucose syrup,parabens,propylparaben,fragrance",high
+"citric acid,fragrance,octinoxate",medium
+"salt,oxybenzone,caramel color",medium
+"formaldehyde,mineral oil",low
+"oats,tartrazine,parabens,caramel color",medium
+"acetic acid,acesulfame k,monosodium glutamate,citric acid,palm oil",medium
+"phosphoric acid,refined oil,titanium dioxide,coal tar",medium
+"sls,glycerin,aspartame,vegetable oil",medium
+"aspartame,sodium,avobenzone,acetic acid,caramel color",high
+"monosodium glutamate,carbon dioxide,sunset yellow,flavour,salicylic acid,taurine",high
+"acetic acid,fructose,tartrazine,propylparaben",medium
+"artificial color,salicylic acid",low
+"taurine,oats",low
+"sunset yellow,taurine,propylparaben,aspartame,oats,titanium dioxide",high
+"nitrites,mineral oil,carbon dioxide,oxybenzone,sucralose",high
+"titanium dioxide,salt,methylparaben,high fructose corn syrup,alcohol",high
+"cocoa,carbon dioxide",low
+"parabens,taurine,flavour,phosphoric acid,caffeine",medium
+"parabens,hydrogenated oil,sunset yellow,oxybenzone,potassium sorbate,vegetable oil",high
+"hyaluronic acid,sucralose,oxybenzone,oats",medium
+"carbon dioxide,msg",low
+"nitrites,aspartame,water",medium
+"fragrance,refined oil,artificial flavour,glucose,acesulfame k",high
+"synthetic fragrance,caramel color,glucose,nitrites",high
+"parabens,sodium benzoate,flavour,nitrates,cocoa",high
+"carbon dioxide,flavour,formaldehyde,oxybenzone",medium
+"titanium dioxide,octinoxate,sulfites,water",medium
+"propylparaben,refined oil,glucose,phthalates,sls",high
+"nitrites,wheat flour",low
+"glucose syrup,nitrites,sodium,carbon dioxide,high fructose corn syrup",high
+"palm oil,milk,sodium laureth sulfate,mineral oil,zinc oxide",medium
+"flavour,propylparaben,palm oil,taurine",medium
+"glucose syrup,sugar,sucralose",medium
+"tartrazine,sulfites,refined oil",medium
+"avobenzone,synthetic fragrance",low
+"acesulfame k,salicylic acid",low
+"synthetic fragrance,taurine",low
+"caramel color,sugar,acesulfame k,vegetable oil,propylparaben,phthalates",high
+"sodium laureth sulfate,avobenzone,milk,acetic acid",medium
+"titanium dioxide,caffeine,sls,artificial flavour,sucralose,salt",high
+"acetic acid,fructose",low
+"sodium benzoate,benzene,oats,avobenzone",medium
+"msg,synthetic fragrance",low
+"propylparaben,methylparaben,acesulfame k",medium
+"sugar,octinoxate",medium
+"methylparaben,sunset yellow,phthalates,msg,artificial flavour,saturated fat",high
+"high fructose corn syrup,benzene,sls,sodium,titanium dioxide",high
+"sunset yellow,hydrogenated oil,oats,coal tar",high
+"water,cocoa,coal tar,hydrogenated oil,trans fat",high
+"artificial flavour,msg,zinc oxide,sodium laureth sulfate",medium
+"glucose syrup,caramel color,taurine,glucose,mineral oil,fragrance",high
+"acesulfame k,synthetic fragrance,sodium,hyaluronic acid",medium
+"titanium dioxide,glucose syrup,oxybenzone",medium
+"potassium sorbate,synthetic fragrance,refined oil,milk,phthalates,fragrance",high
+"parabens,phosphoric acid,citric acid,tartrazine,sls",high
+"vegetable oil,acetic acid,synthetic fragrance,methylparaben",medium
+"sugar,maltose,citric acid,flavour,potassium sorbate",medium
+"phosphoric acid,citric acid,milk,glucose",medium
+"benzene,sulfites,msg,sodium benzoate,potassium sorbate,hydrogenated oil",high
+"propylparaben,potassium sorbate",low
+"oxybenzone,water",low
+"oats,glucose syrup,sugar,caramel color,vegetable oil,fructose",high
+"vegetable oil,alcohol,zinc oxide,avobenzone,potassium sorbate,sugar",high
+"fragrance,fructose,monosodium glutamate,sodium benzoate,sodium",high
+"sls,sodium laureth sulfate",low
+"vegetable oil,milk,citric acid,fragrance",medium
+"milk,mineral oil,sodium laureth sulfate,oats",medium
+"caffeine,maltose",low
+"tartrazine,hyaluronic acid,glycerin",low
+"sodium laureth sulfate,sodium",low
+"citric acid,sodium benzoate,salt,oats",medium
+"vegetable oil,parabens,nitrites,sodium,mineral oil,salt",high
+"benzene,sucralose,methylparaben,avobenzone,zinc oxide",high
+"glycerin,trans fat,octinoxate",medium
+"artificial color,trans fat,sunset yellow,sodium",high
+"fragrance,citric acid,hyaluronic acid,oxybenzone",medium
+"hydrogenated oil,taurine,hyaluronic acid",medium
+"citric acid,milk,benzene,potassium sorbate,oats,sugar",high
+"water,glucose,mineral oil,sunset yellow,oxybenzone",high
+"sodium,artificial color,wheat flour,sugar,titanium dioxide",high
+"sodium,sulfites,monosodium glutamate,mineral oil,taurine",high
+"milk,palm oil,potassium sorbate,flavour",medium
+"palm oil,propylparaben,potassium sorbate,monosodium glutamate",medium
+"milk,sulfites",low
+"fructose,sodium laureth sulfate,glucose syrup,artificial flavour,trans fat,artificial color",high
+"fructose,propylparaben",low
+"salicylic acid,milk",low
+"octinoxate,palm oil,glucose,flavour",medium
+"sugar,coal tar",medium
+"avobenzone,sulfites,hydrogenated oil,sodium benzoate",high
+"nitrites,glycerin,citric acid,fragrance,artificial flavour,sodium benzoate",high
+"nitrites,high fructose corn syrup",medium
+"caramel color,sugar,formaldehyde",medium
+"flavour,vegetable oil,hydrogenated oil,sugar,mineral oil",high
+"artificial flavour,glycerin,milk",low
+"carbon dioxide,palm oil,sulfites",low
+"caffeine,hyaluronic acid,aspartame,acesulfame k,artificial color",high
+"sodium,nitrates,sls,sodium lauryl sulfate,parabens,wheat flour",high
+"phthalates,salicylic acid,high fructose corn syrup,oxybenzone",high
+"monosodium glutamate,sodium laureth sulfate,high fructose corn syrup,caffeine,phthalates",high
+"milk,sucralose,palm oil,mineral oil,zinc oxide,alcohol",high
+"artificial flavour,zinc oxide",low
+"trans fat,sugar,sodium lauryl sulfate",medium
+"sunset yellow,refined oil",low
+"oxybenzone,propylparaben,flavour",medium
+"zinc oxide,formaldehyde,oxybenzone,artificial flavour",medium
+"alcohol,nitrates,milk",medium
+"potassium sorbate,sucralose,salt,water,coal tar",high
+"caramel color,glycerin,cocoa,artificial flavour,zinc oxide,fragrance",medium
+"salt,vegetable oil,acetic acid,formaldehyde,sodium laureth sulfate,oats",high
+"milk,potassium sorbate,parabens,sulfites,propylparaben",medium
+"glycerin,nitrites,glucose syrup,saturated fat,synthetic fragrance,alcohol",high
+"fragrance,tartrazine,parabens,phosphoric acid,artificial color,wheat flour",high
+"aspartame,fructose",low
+"titanium dioxide,fragrance,sodium lauryl sulfate",low
+"hydrogenated oil,glycerin,phthalates,salt",medium
+"msg,methylparaben",low
+"glucose syrup,palm oil,vegetable oil,fructose,formaldehyde",high
+"water,sodium lauryl sulfate,monosodium glutamate,sls,sulfites",medium
+"acetic acid,glycerin,vegetable oil",low
+"citric acid,octinoxate,oats,salt,water",medium
+"phthalates,acesulfame k",medium
+"sodium lauryl sulfate,water,phthalates,parabens,oats,acesulfame k",high
+"glucose,glucose syrup,sodium lauryl sulfate",medium
+"sodium lauryl sulfate,synthetic fragrance,sucralose,potassium sorbate,aspartame",high
+"glucose syrup,parabens,carbon dioxide,high fructose corn syrup,salt",high
+"citric acid,carbon dioxide,avobenzone",low
+"acetic acid,glucose syrup,milk,sodium benzoate",medium
+"citric acid,palm oil,hydrogenated oil,sunset yellow,sodium lauryl sulfate",high
+"trans fat,titanium dioxide,carbon dioxide",low
+"wheat flour,synthetic fragrance,methylparaben,acesulfame k,titanium dioxide",high
+"titanium dioxide,cocoa,caramel color,sodium benzoate,sunset yellow,formaldehyde",high
+"oats,oxybenzone",low
+"flavour,parabens,milk,hydrogenated oil,sugar,potassium sorbate",high
+"artificial flavour,fructose,sucralose",medium
+"mineral oil,sunset yellow,sulfites,saturated fat",medium
+"tartrazine,potassium sorbate",low
+"glycerin,sunset yellow,caffeine",medium
+"nitrates,synthetic fragrance,acetic acid,acesulfame k,fragrance",high
+"zinc oxide,artificial color,nitrites,formaldehyde",high
+"artificial color,sugar,glycerin,sls",medium
+"carbon dioxide,salicylic acid,synthetic fragrance,acetic acid",medium
+"fragrance,sodium laureth sulfate",low
+"citric acid,benzene,sodium laureth sulfate,phosphoric acid,vegetable oil",high
+"glucose syrup,tartrazine,fragrance,sodium laureth sulfate",high
+"potassium sorbate,monosodium glutamate,phosphoric acid,water,alcohol,refined oil",high
+"palm oil,sunset yellow,oxybenzone",medium
+"acetic acid,fructose,formaldehyde,nitrates,citric acid,parabens",high
+"artificial color,methylparaben,alcohol",medium
+"monosodium glutamate,palm oil,glucose syrup,phthalates,methylparaben",high
+"saturated fat,artificial flavour",low
+"salicylic acid,sugar,flavour,fragrance,artificial flavour",medium
+"sodium lauryl sulfate,sls,salt",medium
+"fructose,acesulfame k,avobenzone,sucralose,sodium benzoate",high
+"salt,fructose,sodium lauryl sulfate,trans fat",medium
+"avobenzone,potassium sorbate,nitrates",medium
+"avobenzone,citric acid,parabens,caramel color,nitrates,tartrazine",high
+"nitrites,vegetable oil,maltose",medium
+"high fructose corn syrup,mineral oil,refined oil,alcohol",medium
+"benzene,phthalates,trans fat,caramel color,phosphoric acid,wheat flour",high
+"aspartame,hyaluronic acid",low
+"msg,titanium dioxide,flavour,fragrance",medium
+"sugar,nitrites,glucose",medium
+"sodium lauryl sulfate,alcohol",low
+"citric acid,oats,glycerin,hyaluronic acid,sodium",medium
+"taurine,phosphoric acid",low
+"palm oil,benzene,synthetic fragrance,caffeine",high
+"nitrites,avobenzone,salt",medium
+"carbon dioxide,saturated fat,hyaluronic acid,synthetic fragrance",medium
+"glucose syrup,synthetic fragrance,aspartame",medium
+"fructose,hydrogenated oil,oats,salicylic acid,nitrates,glucose syrup",high
+"sucralose,titanium dioxide,caramel color,palm oil",medium
+"aspartame,parabens,saturated fat,methylparaben,sodium",high
+"msg,palm oil,aspartame,glucose,fructose",high
+"salicylic acid,parabens,formaldehyde",medium
+"wheat flour,sodium laureth sulfate,high fructose corn syrup,synthetic fragrance,fructose",high
+"saturated fat,refined oil,potassium sorbate,sugar,nitrates",high
+"oxybenzone,monosodium glutamate,salt",medium
+"sodium laureth sulfate,sls",low
+"maltose,saturated fat,taurine,tartrazine",medium
+"sugar,hydrogenated oil,artificial color,sls,flavour",high
+"titanium dioxide,phosphoric acid,mineral oil,acesulfame k,caramel color",high
+"vegetable oil,nitrates,artificial color",medium
+"glycerin,parabens,sulfites,hydrogenated oil,artificial flavour",high
+"caramel color,synthetic fragrance,high fructose corn syrup,alcohol",high
+"potassium sorbate,trans fat,artificial color,hydrogenated oil,carbon dioxide",high
+"alcohol,coal tar,nitrites,saturated fat",high
+"salt,fructose",low
+"sls,citric acid,nitrates,sucralose",medium
+"glucose,synthetic fragrance,coal tar,fructose,sodium laureth sulfate",high
+"monosodium glutamate,sucralose,sodium laureth sulfate,salt,high fructose corn syrup",high
+"octinoxate,parabens,milk,fragrance",medium
+"glucose,mineral oil,refined oil,propylparaben,formaldehyde",high
+"coal tar,propylparaben,sodium,sodium lauryl sulfate",medium
+"taurine,palm oil,sls,fructose,artificial color,carbon dioxide",high
+"high fructose corn syrup,benzene",medium
+"artificial flavour,water",low
+"nitrates,flavour,sodium benzoate",medium
+"mineral oil,vegetable oil,maltose,phosphoric acid",medium
+"aspartame,coal tar,citric acid",medium
+"sodium lauryl sulfate,acesulfame k,water,benzene,sulfites,citric acid",high
+"refined oil,trans fat,mineral oil,phosphoric acid,carbon dioxide",high
+"nitrites,sulfites,sucralose,parabens,oats",high
+"coal tar,fructose",low
+"glycerin,sulfites,avobenzone,sodium,parabens",medium
+"formaldehyde,sucralose,potassium sorbate",medium
+"potassium sorbate,avobenzone,sls,sodium benzoate,sugar,msg",high
+"propylparaben,trans fat",low
+"acetic acid,sugar",low
+"wheat flour,palm oil,msg,phthalates,flavour",high
+"sodium laureth sulfate,sunset yellow,palm oil,synthetic fragrance",high
+"trans fat,parabens",low
+"alcohol,artificial flavour",low
+"propylparaben,sunset yellow,phthalates,fructose",high
+"trans fat,sunset yellow,maltose,phosphoric acid",high
+"oxybenzone,palm oil,saturated fat,milk,artificial flavour,octinoxate",high
+"acesulfame k,phthalates,sls,methylparaben,sodium lauryl sulfate",high
+"aspartame,trans fat",medium
+"aspartame,milk",low
+"fragrance,sodium lauryl sulfate",low
+"titanium dioxide,artificial flavour,vegetable oil",low
+"synthetic fragrance,octinoxate,acetic acid",medium
+"citric acid,synthetic fragrance,artificial flavour",medium
+"sulfites,artificial flavour,propylparaben",medium
+"taurine,oxybenzone,caramel color",medium
+"aspartame,acesulfame k,msg,phosphoric acid,glucose syrup",high
+"phosphoric acid,cocoa,acetic acid,sugar,wheat flour,sls",high
+"acetic acid,oats,acesulfame k",low
+"zinc oxide,carbon dioxide,formaldehyde,saturated fat,monosodium glutamate,refined oil",high
+"artificial color,nitrates,sugar,propylparaben",high
+"titanium dioxide,fragrance",low
+"fructose,artificial color,sodium lauryl sulfate",medium
+"palm oil,caffeine,coal tar,sunset yellow,refined oil,oats",high
+"oxybenzone,caramel color",low
+"vegetable oil,formaldehyde,sunset yellow,sls",high
+"potassium sorbate,hydrogenated oil,alcohol,maltose,sunset yellow,carbon dioxide",high
+"formaldehyde,coal tar,alcohol",medium
+"aspartame,sodium,caffeine,sodium lauryl sulfate,synthetic fragrance",high
+"caffeine,phosphoric acid,methylparaben",medium
+"flavour,sodium laureth sulfate,caramel color,glucose,coal tar,avobenzone",high
+"sunset yellow,mineral oil,hydrogenated oil,refined oil",high
+"carbon dioxide,phosphoric acid,benzene,potassium sorbate,alcohol,parabens",high
+"acetic acid,caffeine,monosodium glutamate,octinoxate,msg,artificial flavour",high
+"taurine,cocoa,sodium laureth sulfate,carbon dioxide,refined oil",medium
+"cocoa,acetic acid,formaldehyde",low
+"mineral oil,flavour",low
+"phosphoric acid,sodium lauryl sulfate,vegetable oil,cocoa,tartrazine,sodium benzoate",high
+"phosphoric acid,caffeine,flavour,parabens,acetic acid,formaldehyde",high
+"sodium,artificial color,water",medium
+"coal tar,glycerin,sodium benzoate,sugar",high
+"oats,phthalates,sunset yellow,caffeine,water",high
+"carbon dioxide,flavour,salt",low
+"glucose,octinoxate,caffeine,potassium sorbate,acetic acid",high
+"titanium dioxide,alcohol,vegetable oil,trans fat,acesulfame k",high
+"sulfites,sugar,glycerin,fragrance,sucralose,nitrites",high
+"glycerin,sugar,sls,sodium,palm oil,nitrites",high
+"wheat flour,artificial flavour,phthalates",medium
+"oxybenzone,oats,potassium sorbate,caramel color,citric acid",medium
+"sodium laureth sulfate,sodium,palm oil,potassium sorbate,tartrazine,parabens",high
+"artificial color,sodium,citric acid,wheat flour,salt,sulfites",high
+"sucralose,sodium lauryl sulfate",low
+"sls,vegetable oil,tartrazine,cocoa,sodium benzoate,salicylic acid",high
+"sunset yellow,formaldehyde,artificial color,refined oil,salt,glucose",high
+"mineral oil,sodium lauryl sulfate,oats,nitrates",medium
+"phosphoric acid,saturated fat,sodium benzoate,sucralose",medium
+"potassium sorbate,phosphoric acid,refined oil,vegetable oil,wheat flour",high
+"acesulfame k,mineral oil,monosodium glutamate",medium
+"palm oil,mineral oil,coal tar,titanium dioxide",medium
+"sugar,avobenzone",low
+"tartrazine,cocoa,propylparaben",medium
+"sucralose,wheat flour,glycerin,tartrazine,salicylic acid",medium
+"citric acid,water,nitrites,titanium dioxide,hyaluronic acid",medium
+"oats,carbon dioxide",low
+"sucralose,sodium laureth sulfate,sunset yellow,fragrance,hyaluronic acid,glucose",high
+"glucose,hyaluronic acid,tartrazine,synthetic fragrance",high
+"sucralose,sulfites,salt,oxybenzone",medium
+"zinc oxide,glucose",low
+"salicylic acid,zinc oxide,nitrites,water,hydrogenated oil",medium
+"milk,high fructose corn syrup,glucose,synthetic fragrance,saturated fat",high
+"sodium lauryl sulfate,refined oil,alcohol,avobenzone,octinoxate,potassium sorbate",high
+"artificial color,oxybenzone,sodium lauryl sulfate,phthalates,saturated fat,phosphoric acid",high
+"monosodium glutamate,sucralose,potassium sorbate,glucose,sls",high
+"sodium,vegetable oil",low
+"flavour,trans fat,alcohol,taurine,benzene,zinc oxide",high
+"sucralose,titanium dioxide,palm oil,oxybenzone",medium
+"aspartame,salicylic acid,acetic acid,sodium benzoate",medium
+"cocoa,zinc oxide,saturated fat,artificial flavour,methylparaben",medium
+"hydrogenated oil,avobenzone,titanium dioxide,sls",medium
+"aspartame,zinc oxide,coal tar,hyaluronic acid,artificial color",high
+"fructose,citric acid,sls,oats,nitrites",medium
+"sls,refined oil,aspartame",medium
+"mineral oil,zinc oxide,monosodium glutamate,high fructose corn syrup,taurine,sugar",high
+"methylparaben,maltose,hydrogenated oil,sucralose",medium
+"aspartame,phthalates,high fructose corn syrup,saturated fat,palm oil,trans fat",high
+"saturated fat,octinoxate",low
+"benzene,palm oil,sodium benzoate,sunset yellow,trans fat,saturated fat",high
+"caffeine,aspartame,trans fat",medium
+"aspartame,refined oil,nitrites,salicylic acid",medium
+"propylparaben,refined oil,palm oil,milk,methylparaben",medium
+"milk,cocoa,mineral oil",low
+"artificial flavour,maltose",low
+"sodium benzoate,coal tar,propylparaben,methylparaben,synthetic fragrance",high
+"potassium sorbate,formaldehyde,octinoxate",medium
+"salicylic acid,glucose syrup,glycerin",low
+"sunset yellow,sucralose",low
+"artificial flavour,sodium lauryl sulfate",low
+"wheat flour,refined oil,fructose,aspartame,sodium,nitrates",high
+"oxybenzone,sugar,glucose,synthetic fragrance,artificial flavour",high
+"refined oil,sodium laureth sulfate,caramel color,cocoa,fragrance",medium
+"sls,hyaluronic acid",low
+"sunset yellow,cocoa,salt,aspartame",medium
+"high fructose corn syrup,glucose,milk,refined oil",medium
+"alcohol,saturated fat,sodium,vegetable oil",medium
+"benzene,caramel color,nitrates,sodium benzoate",high
+"maltose,parabens,nitrates,monosodium glutamate",medium
+"caffeine,sulfites,salicylic acid",low
+"glucose syrup,fructose,aspartame,nitrites",high
+"citric acid,salt,carbon dioxide,octinoxate",medium
+"benzene,milk,vegetable oil",medium
+"milk,glucose,cocoa",low
+"zinc oxide,phosphoric acid,parabens",low
+"cocoa,palm oil,trans fat,alcohol",medium
+"hyaluronic acid,methylparaben,propylparaben,mineral oil",medium
+"cocoa,palm oil",low
+"carbon dioxide,sodium laureth sulfate,trans fat",medium
+"carbon dioxide,mineral oil,parabens,sulfites,benzene",high
+"fructose,artificial flavour,citric acid,caffeine,octinoxate",high
+"sulfites,sls,hyaluronic acid,phthalates",medium
+"flavour,artificial flavour,artificial color,acetic acid",medium
+"trans fat,acetic acid,mineral oil,flavour,caffeine,wheat flour",high
+"acesulfame k,aspartame",medium
+"titanium dioxide,saturated fat,potassium sorbate,wheat flour,palm oil",medium
+"mineral oil,phthalates,nitrates,sodium lauryl sulfate,propylparaben,nitrites",high
+"tartrazine,phosphoric acid",low
+"hydrogenated oil,tartrazine",medium
+"tartrazine,phosphoric acid,hydrogenated oil,sucralose",high
+"refined oil,sodium lauryl sulfate,zinc oxide,salicylic acid,saturated fat",medium
+"glycerin,caramel color,oxybenzone,sugar,sodium",high
+"monosodium glutamate,sodium laureth sulfate,hyaluronic acid,formaldehyde,tartrazine,sulfites",high
+"avobenzone,glucose,synthetic fragrance,sucralose,taurine,benzene",high
+"aspartame,glycerin,alcohol,parabens",medium
+"parabens,propylparaben,hydrogenated oil,sodium",medium
+"caffeine,phthalates,sulfites,salicylic acid,oxybenzone,maltose",high
+"alcohol,aspartame,propylparaben",medium
+"sunset yellow,sodium laureth sulfate,wheat flour,alcohol,sodium,acesulfame k",high
+"palm oil,fructose",low
+"acetic acid,palm oil,caramel color,wheat flour,oxybenzone",high
+"fructose,oxybenzone,nitrites,sodium benzoate,hyaluronic acid",high
+"mineral oil,synthetic fragrance,phthalates,citric acid",medium
+"maltose,avobenzone,high fructose corn syrup",medium
+"oxybenzone,tartrazine",medium
+"potassium sorbate,artificial color,sodium lauryl sulfate,avobenzone",medium
+"caramel color,maltose,fructose",medium
+"oats,coal tar,mineral oil,carbon dioxide,trans fat",high
+"parabens,fructose,sunset yellow",medium
+"fragrance,nitrates,potassium sorbate,sodium,water",high
+"oxybenzone,caramel color,acesulfame k",medium
+"flavour,fragrance,artificial color,sodium lauryl sulfate",medium
+"saturated fat,hyaluronic acid,fragrance,citric acid,sodium,sugar",high
+"zinc oxide,msg,tartrazine,phthalates,octinoxate,sodium lauryl sulfate",high
+"water,fructose,nitrites,vegetable oil,milk",medium
+"formaldehyde,salt,wheat flour,methylparaben",medium
+"caffeine,acetic acid",low
+"caffeine,trans fat,glucose syrup,fragrance,fructose",high
+"msg,artificial color,phthalates,wheat flour",high
+"sodium laureth sulfate,sucralose,avobenzone,citric acid,oxybenzone,cocoa",high
+"tartrazine,saturated fat,sodium lauryl sulfate,sulfites",medium
+"taurine,artificial flavour",low
+"artificial color,maltose,oxybenzone,caramel color",high
+"sodium,maltose",low
+"sodium benzoate,benzene",medium
+"alcohol,carbon dioxide,water,sodium",medium
+"formaldehyde,zinc oxide,caramel color,sls,avobenzone,parabens",high
+"salt,glucose",low
+"avobenzone,zinc oxide,synthetic fragrance,sodium benzoate,potassium sorbate,msg",high
+"avobenzone,taurine",low
+"sodium laureth sulfate,synthetic fragrance",low
+"phosphoric acid,benzene,sunset yellow,sodium",high
+"synthetic fragrance,glycerin,oxybenzone",medium
+"sunset yellow,hyaluronic acid,cocoa,tartrazine,benzene",high
+"flavour,oxybenzone",low
+"methylparaben,benzene,salicylic acid,sodium laureth sulfate,avobenzone",high
+"hydrogenated oil,sodium,synthetic fragrance",medium
+"citric acid,zinc oxide,sunset yellow,octinoxate,coal tar",high
+"monosodium glutamate,propylparaben,taurine",medium
+"oxybenzone,fructose,phosphoric acid,fragrance,carbon dioxide,avobenzone",high
+"sls,monosodium glutamate",low
+"acetic acid,salt",low
+"salt,citric acid,msg",low
+"fructose,benzene,aspartame,trans fat,tartrazine,artificial flavour",high
+"glucose syrup,artificial color,propylparaben,saturated fat,caramel color",high
+"monosodium glutamate,fructose,sodium benzoate,caramel color,cocoa,parabens",high
+"milk,water,sodium benzoate,flavour",medium
+"flavour,saturated fat,wheat flour,taurine,nitrates,glucose syrup",high
+"mineral oil,synthetic fragrance,flavour",medium
+"fructose,tartrazine,refined oil,cocoa",medium
+"water,glucose syrup",low
+"acesulfame k,fragrance,sucralose,cocoa,artificial flavour,aspartame",high
+"taurine,sulfites,synthetic fragrance",medium
+"wheat flour,high fructose corn syrup,propylparaben,glucose syrup",high
+"flavour,methylparaben,msg",low
+"salicylic acid,avobenzone,vegetable oil",low
+"acesulfame k,artificial color,carbon dioxide,refined oil,oxybenzone,msg",high
+"avobenzone,milk,nitrates,maltose",medium
+"vegetable oil,potassium sorbate",low
+"milk,fructose,maltose,benzene,sodium lauryl sulfate",high
+"palm oil,coal tar,parabens,glycerin,msg,avobenzone",high
+"glucose syrup,sls,hyaluronic acid,trans fat",medium
+"sodium lauryl sulfate,oats,carbon dioxide,nitrates,phthalates,phosphoric acid",high
+"citric acid,artificial color,nitrates,coal tar,milk,formaldehyde",high
+"maltose,oats,benzene",medium
+"artificial flavour,palm oil,artificial color,nitrites",high
+"titanium dioxide,caramel color",low
+"monosodium glutamate,glucose syrup",low
+"fructose,benzene,high fructose corn syrup",medium
+"wheat flour,tartrazine",low
+"caffeine,glycerin,artificial flavour,oxybenzone,octinoxate",high
+"glucose syrup,caramel color,cocoa,nitrates,sucralose",high
+"saturated fat,glucose syrup,caramel color,monosodium glutamate",medium
+"potassium sorbate,acetic acid",low
+"carbon dioxide,sodium laureth sulfate,octinoxate,oats,salicylic acid",medium
+"titanium dioxide,carbon dioxide,refined oil,mineral oil,saturated fat,caffeine",high
+"benzene,sodium,artificial flavour,acetic acid,saturated fat,msg",high
+"fragrance,sodium benzoate",low
+"trans fat,high fructose corn syrup,sodium lauryl sulfate",medium
+"saturated fat,avobenzone,tartrazine,hydrogenated oil,refined oil,nitrites",high
+"fragrance,cocoa,synthetic fragrance",medium
+"sodium lauryl sulfate,hyaluronic acid,sulfites,synthetic fragrance,parabens,saturated fat",high
+"wheat flour,sodium lauryl sulfate,glucose,oxybenzone,phosphoric acid,milk",high
+"sls,benzene,vegetable oil,nitrites,caramel color,hydrogenated oil",high
+"nitrates,citric acid",low
+"saturated fat,sulfites,refined oil,tartrazine,wheat flour,phosphoric acid",high
+"citric acid,phosphoric acid,sunset yellow,sodium laureth sulfate,salicylic acid,sodium",high
+"fragrance,avobenzone,caffeine,acesulfame k,phthalates",high
+"propylparaben,potassium sorbate,avobenzone,citric acid,msg",medium
+"saturated fat,oxybenzone,octinoxate,trans fat,hyaluronic acid,glucose syrup",high
+"avobenzone,sodium laureth sulfate,acesulfame k,sucralose",medium
+"hyaluronic acid,water",low
+"msg,propylparaben,flavour,synthetic fragrance",medium
+"sugar,avobenzone",low
+"oxybenzone,formaldehyde,octinoxate",medium
+"potassium sorbate,carbon dioxide,fragrance,palm oil,citric acid",medium
+"sodium lauryl sulfate,avobenzone",low
+"milk,hyaluronic acid,vegetable oil,sodium,monosodium glutamate,saturated fat",high
+"nitrites,acetic acid,sulfites,acesulfame k,high fructose corn syrup",high
+"glucose syrup,sodium,mineral oil,vegetable oil,trans fat,msg",high
+"carbon dioxide,tartrazine,citric acid,vegetable oil,trans fat,aspartame",high
+"titanium dioxide,formaldehyde,sodium laureth sulfate,parabens,vegetable oil,trans fat",high
+"caramel color,sugar,mineral oil",medium
+"cocoa,benzene,sunset yellow,sodium,sugar",high
+"propylparaben,mineral oil,flavour,oxybenzone,citric acid",medium
+"acetic acid,sodium,sls",low
+"artificial flavour,hydrogenated oil",low
+"caramel color,formaldehyde,propylparaben,sodium laureth sulfate,salicylic acid,benzene",high
+"sodium,tartrazine,synthetic fragrance,artificial flavour",high
+"alcohol,sodium laureth sulfate",low
+"salicylic acid,acesulfame k,saturated fat,sodium",medium
+"zinc oxide,cocoa,sls,acesulfame k,hyaluronic acid",medium
+"sulfites,vegetable oil,cocoa",low
+"artificial flavour,hydrogenated oil",low
+"tartrazine,sucralose",low
+"acetic acid,sulfites,glucose,palm oil",medium
+"parabens,cocoa,saturated fat,acetic acid",medium
+"phthalates,propylparaben,sls",medium
+"titanium dioxide,salt,glucose,glucose syrup,sodium,saturated fat",high
+"sls,glucose syrup,artificial color,hyaluronic acid",medium
+"maltose,sodium laureth sulfate",low
+"water,glucose syrup,mineral oil,methylparaben",medium
+"saturated fat,oats,sodium laureth sulfate",low
+"phosphoric acid,alcohol,vegetable oil,oxybenzone,sodium benzoate",high
+"phosphoric acid,nitrites,sodium,parabens,sodium benzoate",high

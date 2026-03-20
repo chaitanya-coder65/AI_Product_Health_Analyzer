@@ -1,9 +1,9 @@
 import pandas as pd
 import sys
-from rapidfuzz import process
+import re
+
 from src.logger import logging
 from src.exception import CustomException
-from src.utils.text_processing import clean_ocr_text, extract_tokens
 
 
 class IngredientDetector:
@@ -11,48 +11,44 @@ class IngredientDetector:
     def __init__(self):
 
         try:
+            df = pd.read_csv("datasets/final/advanced_ingredients_db.csv")
 
-            logging.info("Loading ingredient database")
-
-            df = pd.read_csv("datasets/final/ingredients_db.csv")
-
-            df = df.dropna(subset=["ingredient"])
-
-            self.ingredients = (
-                df["ingredient"]
-                .astype(str)
-                .str.lower()
-                .str.strip()
-                .unique()
-                .tolist()
+            # ✅ clean ingredient list
+            self.known_ingredients = list(
+                set(df["ingredient"].dropna().str.lower().str.strip())
             )
 
         except Exception as e:
             raise CustomException(e, sys)
 
+    def clean_text(self, text):
+
+        text = text.lower()
+
+        # remove special chars
+        text = re.sub(r'[^a-z\s]', ' ', text)
+
+        # remove extra spaces
+        text = re.sub(r'\s+', ' ', text)
+
+        return text
 
     def detect(self, text):
 
         try:
+            text = self.clean_text(text)
 
-            clean_text = clean_ocr_text(text)
+            detected = set()
 
-            tokens = extract_tokens(clean_text)
+            for ingredient in self.known_ingredients:
 
-            detected = []
+                # exact word match (IMPORTANT FIX)
+                pattern = r'\b' + re.escape(ingredient) + r'\b'
 
-            for token in tokens:
+                if re.search(pattern, text):
+                    detected.add(ingredient)
 
-                # NLP fuzzy matching
-                match, score, _ = process.extractOne(token, self.ingredients)
-
-                # threshold (important)
-                if score >= 85:
-                    detected.append(match)
-
-            detected = list(set(detected))
-
-            return detected
+            return list(detected)
 
         except Exception as e:
             raise CustomException(e, sys)

@@ -1,59 +1,91 @@
 from src.components.ocr_engine import OCREngine
 from src.components.ingredient_detector import IngredientDetector
-from src.components.health_analyzer import HealthAnalyzer
+from src.components.nutrition_analyzer import NutritionAnalyzer
+from src.components.health_predictor import HealthPredictor
+
+from src.logger import logging
+from src.exception import CustomException
+import sys
 
 
 def main():
 
     try:
-        # ================= STEP 1: OCR =================
+        logging.info("Starting full pipeline")
+
+        # =========================================================
+        # STEP 1: OCR (Independent of ML training)
+        # =========================================================
         ocr = OCREngine()
         text = ocr.extract_text("test_product.jpg")
 
-        # ================= STEP 2: INGREDIENT DETECTION =================
+        print("\n================ OCR TEXT (DEBUG) ================\n")
+        print(text)
+
+        # =========================================================
+        # STEP 2: INGREDIENT DETECTION
+        # =========================================================
         detector = IngredientDetector()
         ingredients = detector.detect(text)
-
-        # ================= STEP 3: HEALTH ANALYSIS =================
-        analyzer = HealthAnalyzer()
-        results, score, decision = analyzer.analyze(ingredients)
-
-        # ================= FINAL OUTPUT =================
-
-        print("\n================ OCR TEXT (FOR DEBUG ONLY) ================\n")
-        print(text)
 
         print("\n============= DETECTED INGREDIENTS =============\n")
 
         if not ingredients:
-            print("No ingredients detected")
-        else:
-            for ing in ingredients:
-                print(f"✔ {ing}")
+            print("❌ No ingredients detected")
+            return
 
-        print("\n============== HEALTH ANALYSIS ==============\n")
+        for ing in ingredients:
+            print(f"✔ {ing}")
+
+        # =========================================================
+        # STEP 3: RULE + QUANTITY ANALYSIS
+        # =========================================================
+        analyzer = NutritionAnalyzer()
+        results, score, decision = analyzer.analyze(ingredients)
+
+        print("\n============== RULE-BASED ANALYSIS ==============\n")
 
         if not results:
-            print("No health risks identified")
+            print("❌ No health data found")
         else:
             for r in results:
-                print(f"⚠ {r['ingredient']} → {r['effect']} ({r['risk']})")
+                print(f"⚠ {r['ingredient']}")
+                print(f"   → Effect: {r['effect']}")
+                print(f"   → Risk: {r['risk']}\n")
 
         print("\n===========================================\n")
         print(f"Health Score: {score} / 10")
 
-        # ================= FINAL DECISION =================
+        
 
-        if decision == "SAFE":
-            print("✔ Product is SAFE to consume")
-        elif decision == "MODERATE":
-            print("⚠ Product should be consumed in MODERATION")
+        predictor = HealthPredictor()
+        ml_result = predictor.predict(ingredients)
+
+        print("\n============== ML PREDICTION ==============\n")
+
+        if ml_result == "low":
+            print("✔ ML: SAFE")
+        elif ml_result == "medium":
+            print("⚠ ML: MODERATE")
         else:
-            print("❌ Product is NOT SAFE for frequent consumption")
+            print("❌ ML: DANGEROUS")
 
+        # =========================================================
+        # FINAL DECISION (HYBRID LOGIC)
+        # =========================================================
+        print("\n============== FINAL DECISION ==============\n")
+
+        if ml_result == "high" or decision == "DANGEROUS":
+            print("❌ Product is NOT SAFE")
+        elif ml_result == "medium" or decision == "MODERATE":
+            print("⚠ Consume in MODERATION")
+        else:
+            print("✔ Product is SAFE")
+
+        logging.info("Pipeline executed successfully")
 
     except Exception as e:
-        print("Error occurred:", e)
+        raise CustomException(e, sys)
 
 
 if __name__ == "__main__":
